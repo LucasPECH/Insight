@@ -5,6 +5,6 @@ Ce site permet aussi une visite virtuelle grâce à des vues à 360 degrés pris
 
 Voici une courte vidéo de présentation du projet :
 
-![](https://github.com/LucasPECH/Insight/edit/master/video.gif)
+![](https://github.com/LucasPECH/Insight/blob/master/video.gif)
 
 Projet réalisé avec Vincent BEAUFILS, Lucas CHAMPSAUR, Samuel CRETEUR et Stephane DUCHEMIN
