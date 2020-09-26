@@ -9,4 +9,6 @@ Voici une courte vidéo de présentation du projet :
 
 ![](https://github.com/LucasPECH/Insight/blob/master/video.gif)
 
+Le site est accessible à l'adresse suivante : https://insight360.fr/
+
 Projet réalisé avec Vincent BEAUFILS, Lucas CHAMPSAUR, Samuel CRETEUR et Stephane DUCHEMIN
